@@ -8,7 +8,7 @@ import time
 # Print header
 print(Fore.GREEN + "+-----------------------------------------+")
 print(Fore.GREEN + "            Units Network Testnet")
-print(Fore.GREEN + "          Modif from HappyCuanAirdrop")
+print(Fore.GREEN + "          Modif from HappyCuanAirdrop by @ihsan_ridhwan")
 print(Fore.GREEN + "+-----------------------------------------+")
 
 def send_ether(w3, private_key, recipients):
